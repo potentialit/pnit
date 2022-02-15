@@ -7,6 +7,5 @@
     * 
     * You can't copy, modify, reuse, reform or modify these codes. 
     * If anyone use these codes, we'll put a dmca on google. 
-    * for more info please visit <a href='www.potentialit.xyz'/>
-    
+    * 
    
