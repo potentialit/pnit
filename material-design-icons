@@ -1,0 +1,6 @@
+@font-face {
+  font-family:'PotentialIT';
+  font-weight:normal;
+  font-style:normal;
+  font-display:swap;
+  src:url('PotentialIT.woff2') format('woff2');
