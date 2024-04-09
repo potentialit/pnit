@@ -15,23 +15,37 @@ const prizeAmountsByPrize = {
 "4th Prize": "50000",
 "5th Prize": "10000",
 };
-const drawLinks = {
-107:'https://www.bb.org.bd/investfacility/prizebond/107thdraw.pdf',
-108:'https://www.bb.org.bd/investfacility/prizebond/108thdraw.pdf',
-109:'https://www.bb.org.bd/investfacility/prizebond/109thdraw.pdf',
-110:'https://www.bb.org.bd/investfacility/prizebond/110thdraw.pdf',
-111:'https://www.bb.org.bd/investfacility/prizebond/111thdraw.pdf',
-112:'https://www.bb.org.bd/investfacility/prizebond/112thdraw.pdf',
-113:'https://www.bb.org.bd/investfacility/prizebond/113thdraw.pdf',
-114:'https://www.bb.org.bd/investfacility/prizebond/114thdraw.pdf',
-};
-const eligibleSeriesImagesByDraw = {
-107: 'https://www.bb.org.bd/investfacility/prizebond/images/107.gif',
-108: 'https://www.bb.org.bd/investfacility/prizebond/images/108.gif',
-109: 'https://www.bb.org.bd/investfacility/prizebond/images/109.gif',
-110: 'https://www.bb.org.bd/investfacility/prizebond/images/110.gif',
-111: 'https://www.bb.org.bd/investfacility/prizebond/images/111.gif',
-112: 'https://www.bb.org.bd/investfacility/prizebond/images/112.gif',
-113: 'https://www.bb.org.bd/investfacility/prizebond/images/113.gif',
-114: 'https://www.bb.org.bd/investfacility/prizebond/images/114.gif',
+const drawLinksAndImages = {
+  107: {
+    drawLink: 'https://www.bb.org.bd/investfacility/prizebond/107thdraw.pdf',
+    seriesImage: 'https://www.bb.org.bd/investfacility/prizebond/images/107.gif'
+  },
+  108: {
+    drawLink: 'https://www.bb.org.bd/investfacility/prizebond/108thdraw.pdf',
+    seriesImage: 'https://www.bb.org.bd/investfacility/prizebond/images/108.gif'
+  },
+  109: {
+    drawLink: 'https://www.bb.org.bd/investfacility/prizebond/109thdraw.pdf',
+    seriesImage: 'https://www.bb.org.bd/investfacility/prizebond/images/109.gif'
+  },
+  110: {
+    drawLink: 'https://www.bb.org.bd/investfacility/prizebond/110thdraw.pdf',
+    seriesImage: 'https://www.bb.org.bd/investfacility/prizebond/images/110.gif'
+  },
+  111: {
+    drawLink: 'https://www.bb.org.bd/investfacility/prizebond/111thdraw.pdf',
+    seriesImage: 'https://www.bb.org.bd/investfacility/prizebond/images/111.gif'
+  },
+  112: {
+    drawLink: 'https://www.bb.org.bd/investfacility/prizebond/112thdraw.pdf',
+    seriesImage: 'https://www.bb.org.bd/investfacility/prizebond/images/112.gif'
+  },
+  113: {
+    drawLink: 'https://www.bb.org.bd/investfacility/prizebond/113thdraw.pdf',
+    seriesImage: 'https://www.bb.org.bd/investfacility/prizebond/images/113.gif'
+  },
+  114: {
+    drawLink: 'https://www.bb.org.bd/investfacility/prizebond/114thdraw.pdf',
+    seriesImage: 'https://www.bb.org.bd/investfacility/prizebond/images/114.gif'
+  }
 };
