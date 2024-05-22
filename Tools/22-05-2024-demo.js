@@ -36,13 +36,13 @@
         const endDate = getLocalTime(holiday.dateRangeEnd);
         if (localDate >= startDate && localDate < getNextDay(endDate)) {
           isHoliday = true;
-          document.getElementById('holidayInfo').innerHTML = `<p class="text-danger text-center">${convertDateToBengali(holiday.dateRangeStart)} থেকে ${convertDateToBengali(holiday.dateRangeEnd)} পর্যন্ত ${holiday.description} উপলক্ষে ছুটি</p>`;
+          document.getElementById('holidayInfo').innerHTML = `<p class="text-secondary text-center">${convertDateToBengali(holiday.dateRangeStart)} থেকে ${convertDateToBengali(holiday.dateRangeEnd)} পর্যন্ত ${holiday.description} উপলক্ষে ছুটি</p>`;
 break;
 }
 }
 }
 if (!isHoliday) {
-document.getElementById('holidayInfo').innerHTML = `<p class="text-success text-center">আজকে সরকারি বা ঐচ্ছিক কোন ছুটি নেই</p>`;
+document.getElementById('holidayInfo').innerHTML = `<p class="text-center">আজকে সরকারি বা ঐচ্ছিক কোন ছুটি নেই</p>`;
 }
 }
 function getNextDay(date) {
