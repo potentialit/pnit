@@ -432,5 +432,19 @@
         "phoneNumber": "01601817788",
         "authenticity": "N",
         "web": "Y"
+    },
+    {
+        "pageName": "Sparkle by Tasnim",
+        "pageURL": "profile.php?id=100076949553250",
+        "phoneNumber": "01774394348",
+        "authenticity": "A",
+        "web": "O"
+    },
+    {
+        "pageName": "dearme.com.bd",
+        "pageURL": "dearme.com.bd",
+        "phoneNumber": "01521256956",
+        "authenticity": "A",
+        "web": "Y"
     }
 ]
