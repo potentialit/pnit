@@ -257,5 +257,26 @@
         "phoneNumber": "01990-909696",
         "authenticity": "A",
         "web": "Y"
+    },
+    {
+        "pageName": "Beautiv",
+        "pageURL": "beautivbd/",
+        "phoneNumber": "01848304699",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Dhali Shop",
+        "pageURL": "dhalishopbd",
+        "phoneNumber": "01911644608",
+        "authenticity": "M",
+        "web": "Y"
+    },
+    {
+        "pageName": "Careometics",
+        "pageURL": "careometics",
+        "phoneNumber": "01919404987",
+        "authenticity": "M",
+        "web": "O"
     }
 ]
