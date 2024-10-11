@@ -502,5 +502,26 @@
         "phoneNumber": "01734021317",
         "authenticity": "A",
         "web": "Y"
+    },
+    {
+        "pageName": "Eviqe",
+        "pageURL": "eviqe.com.bd",
+        "phoneNumber": "09677604343",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Premium Tech",
+        "pageURL": "premiumtech2022",
+        "phoneNumber": "01922203423",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "NurZara Fashion",
+        "pageURL": "nurzara.fashion",
+        "phoneNumber": "01922420045",
+        "authenticity": "A",
+        "web": "Y"
     }
 ]
