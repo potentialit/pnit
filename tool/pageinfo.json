@@ -201,5 +201,61 @@
         "phoneNumber": "-",
         "authenticity": "N",
         "web": "O"
+    },
+    {
+        "pageName": "KrystalLife",
+        "pageURL": "@krystallife.store/",
+        "phoneNumber": "01313193374",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "ফেরিওয়ালা.কম",
+        "pageURL": "feriwalaBdShop",
+        "phoneNumber": "01575012261",
+        "authenticity": "M",
+        "web": "Y"
+    },
+    {
+        "pageName": "Healthly beauty & skin care",
+        "pageURL": "profile.php?id=61558691586857",
+        "phoneNumber": "01946271076",
+        "authenticity": "M",
+        "web": "Y"
+    },
+    {
+        "pageName": "The Decant Company",
+        "pageURL": "thedecantcompany",
+        "phoneNumber": "-",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Glam With Anushe",
+        "pageURL": "glamwithanushe",
+        "phoneNumber": "01333405401",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Bangkok Studio",
+        "pageURL": "bangkokstudiobd",
+        "phoneNumber": "01755590000",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Karkuma",
+        "pageURL": "karkumabd",
+        "phoneNumber": "09611-409509",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Guerniss",
+        "pageURL": "Guerniss",
+        "phoneNumber": "01990-909696",
+        "authenticity": "A",
+        "web": "Y"
     }
 ]
