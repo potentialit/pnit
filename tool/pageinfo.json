@@ -68,5 +68,75 @@
         "phoneNumber": "01755697233",
         "authenticity": "A",
         "web": "Y"
+    },
+    {
+        "pageName": "Master Daily Shop",
+        "pageURL": "masterdailyshopbd",
+        "phoneNumber": "09638045299",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Organikaon",
+        "pageURL": "organikaon1",
+        "phoneNumber": "01886845485",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Farmasi Bangladesh",
+        "pageURL": "CareFarmasi",
+        "phoneNumber": "01999014851",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "The Ordinary Skincare UK to BD",
+        "pageURL": "Theordinaryserum",
+        "phoneNumber": "01316108177",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Mumtaz Herbal Products",
+        "pageURL": "mumtazherbal",
+        "phoneNumber": "01910656565",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Lavishta",
+        "pageURL": "lavishtabd",
+        "phoneNumber": "01601212340",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Korean Shop Bangladesh",
+        "pageURL": "koreanshopsBangladesh",
+        "phoneNumber": "01303779646",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Rupchorcha",
+        "pageURL": "rupchorcha.shop",
+        "phoneNumber": "01894941403",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Arogga - আরোগ্য",
+        "pageURL": "arogga",
+        "phoneNumber": "09610016778",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Be Princess",
+        "pageURL": "beprincess.bd",
+        "phoneNumber": "01748176745",
+        "authenticity": "A",
+        "web": "Y"
     }
 ]
