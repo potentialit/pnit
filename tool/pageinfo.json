@@ -446,5 +446,61 @@
         "phoneNumber": "01521256956",
         "authenticity": "A",
         "web": "Y"
+    },
+    {
+        "pageName": "Savers Hall",
+        "pageURL": "savershall",
+        "phoneNumber": "01300535353",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Skincare Mart - Bangladesh",
+        "pageURL": "scmartbd",
+        "phoneNumber": "01821777092",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Skincare Shop",
+        "pageURL": "skincareshop.com.bd",
+        "phoneNumber": "01842040239",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Korean Skincare Brand - Shijang",
+        "pageURL": "ShijangBestKoreanCosmetics",
+        "phoneNumber": "01408-486355",
+        "authenticity": "M",
+        "web": "Y"
+    },
+    {
+        "pageName": "Skincare Salon",
+        "pageURL": "profile.php?id=100082716378132",
+        "phoneNumber": "01797-379612",
+        "authenticity": "A",
+        "web": "O"
+    },
+    {
+        "pageName": "Sanjara Skincare",
+        "pageURL": "Sanjaraskincare",
+        "phoneNumber": "01783923292",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Perfect Skincare",
+        "pageURL": "perfectskincarebd",
+        "phoneNumber": "01958417919",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Korean Skincare BD",
+        "pageURL": "koreanskincare.com.bd",
+        "phoneNumber": "01734021317",
+        "authenticity": "A",
+        "web": "Y"
     }
 ]
