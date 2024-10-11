@@ -4,23 +4,34 @@
         "pageURL": "potentialit.xyz",
         "phoneNumber": "01313599091",
         "authenticity": "A"
+        "web": "Y"
     },
     {
         "pageName": "admissiontune.com",
         "pageURL": "admissiontune",
         "phoneNumber": "-",
         "authenticity": "A"
+        "web": "Y"
     },
     {
         "pageName": "খাদি : Khaadi by Nuvia",
         "pageURL": "khaadi.by.nuvia",
         "phoneNumber": "-",
         "authenticity": "A"
+        "web": "O"
     },
     {
         "pageName": "স্কিন কেয়ার সলিউশন",
         "pageURL": "profile.php?id=100066767943145",
         "phoneNumber": "01686379423",
         "authenticity": "N"
-    }
+        "web": "O"
+    }, 
+    {
+        "pageName": "Urban emart",
+        "pageURL": "urbanemartbd",
+        "phoneNumber": "01830453198",
+        "authenticity": "M"
+        "web": "Y"
+    },    
 ]
