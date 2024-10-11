@@ -138,5 +138,68 @@
         "phoneNumber": "01748176745",
         "authenticity": "A",
         "web": "Y"
+    },
+    {
+        "pageName": "Truce Beauty",
+        "pageURL": "@trucebeauty/",
+        "phoneNumber": "01404499476",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Brightening Beauty Store",
+        "pageURL": "BrighteningBeauty.Store",
+        "phoneNumber": "01688418229",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Serene Bangladesh",
+        "pageURL": "SereneBangladesh",
+        "phoneNumber": "01319923838",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Buno",
+        "pageURL": "bunorganic",
+        "phoneNumber": "01712251685",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Kolkata 2 Dhaka",
+        "pageURL": "kolkata2dhaka",
+        "phoneNumber": "01886081012",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Korean Beautycon - Bangladesh",
+        "pageURL": "Koreanbeautyconbangladesh",
+        "phoneNumber": "01725744781",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Magnific Mart",
+        "pageURL": "MagnificMart",
+        "phoneNumber": "01958417079",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "AR organic care",
+        "pageURL": "ARorganiccare",
+        "phoneNumber": "01739681362",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "skinpro",
+        "pageURL": "skinprosolution",
+        "phoneNumber": "-",
+        "authenticity": "N",
+        "web": "O"
     }
 ]
