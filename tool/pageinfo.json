@@ -278,5 +278,110 @@
         "phoneNumber": "01919404987",
         "authenticity": "M",
         "web": "O"
+    },
+    {
+        "pageName": "Carnesia",
+        "pageURL": "carnesia.official",
+        "phoneNumber": "01748623900",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Groomly",
+        "pageURL": "Groomlybd/",
+        "phoneNumber": "01968484408",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Makeup World bd",
+        "pageURL": "makeupworldbd",
+        "phoneNumber": "01979955001",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Ogerio.com",
+        "pageURL": "officialogerio",
+        "phoneNumber": "01856575222",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Skinplus",
+        "pageURL": "skinplusbd",
+        "phoneNumber": "01703283656",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "OHSOGO",
+        "pageURL": "ohsogo",
+        "phoneNumber": "08000552211",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "BeautyBooth - বিউটি বুথ",
+        "pageURL": "beautybooth.com.bd",
+        "phoneNumber": "01643007383",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Skincarebd.com",
+        "pageURL": "skincarebddotcom",
+        "phoneNumber": "01750046789",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "The Mall",
+        "pageURL": "themallbd",
+        "phoneNumber": "09638200500",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "BanglaShoppers",
+        "pageURL": "banglashoppers",
+        "phoneNumber": "09666787787",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "eMartWay Skincare",
+        "pageURL": "emartwayskincare",
+        "phoneNumber": "01714117604",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Perfecto",
+        "pageURL": "perfectobd1",
+        "phoneNumber": "01775423477",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Klassy Missy",
+        "pageURL": "klassy.com.bd/",
+        "phoneNumber": "01310202026",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "shajgoj.com - সাজগোজ",
+        "pageURL": "shajgojbd",
+        "phoneNumber": "09666737475",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Blu Fashion BD",
+        "pageURL": "BluFashionBD/",
+        "phoneNumber": "-",
+        "authenticity": "A",
+        "web": "Y"
     }
 ]
