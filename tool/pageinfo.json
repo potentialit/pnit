@@ -383,5 +383,54 @@
         "phoneNumber": "-",
         "authenticity": "A",
         "web": "Y"
+    },
+    {
+        "pageName": "Beautysiaa",
+        "pageURL": "beautysiaa",
+        "phoneNumber": "01886664144",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Samirahan",
+        "pageURL": "profile.php?id=100085256064655",
+        "phoneNumber": "01953330595",
+        "authenticity": "M",
+        "web": "Y"
+    },
+    {
+        "pageName": "Tekka Online Shopping",
+        "pageURL": "tekka.official",
+        "phoneNumber": "01334-382522",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Korean Mart - Bangladesh",
+        "pageURL": "KoreanMartBangladesh",
+        "phoneNumber": "01754997766",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "KABLEWALA Bangladesh",
+        "pageURL": "@Kablewala.com.bd/",
+        "phoneNumber": "01729065603",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Paikaree.com.bd",
+        "pageURL": "paikaree.com.bd/",
+        "phoneNumber": "09610000500",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Sinin.com.bd",
+        "pageURL": "sinin.com.bd",
+        "phoneNumber": "01601817788",
+        "authenticity": "N",
+        "web": "Y"
     }
 ]
