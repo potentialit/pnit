@@ -33,5 +33,40 @@
         "phoneNumber": "01830453198",
         "authenticity": "M",
         "web": "Y"
+    },
+    {
+        "pageName": "Miss Organic Bangladesh",
+        "pageURL": "fromvillagEarth",
+        "phoneNumber": "01913488684",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Skin Cafe",
+        "pageURL": "skincafe.co",
+        "phoneNumber": "01313210775",
+        "authenticity": "M",
+        "web": "Y"
+    },
+    {
+        "pageName": "Arot",
+        "pageURL": "bengalarot",
+        "phoneNumber": "01841225888",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "eurasiasupplies.com",
+        "pageURL": "EurasiaSupplies",
+        "phoneNumber": "01312880808",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Shombhob",
+        "pageURL": "shombhob2021",
+        "phoneNumber": "01755697233",
+        "authenticity": "A",
+        "web": "Y"
     }
 ]
