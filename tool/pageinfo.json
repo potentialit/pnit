@@ -551,5 +551,40 @@
         "phoneNumber": "01966851817",
         "authenticity": "N",
         "web": "O"
+    },
+     {
+        "pageName": "Afsheenbd",
+        "pageURL": "afsheenbd",
+        "phoneNumber": "01711967227",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Shoppers' perk",
+        "pageURL": "shoppersperk",
+        "phoneNumber": "01780390222",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "ShoppersBD",
+        "pageURL": "my.shoppersbd",
+        "phoneNumber": "01951100200",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "American Beauty BD",
+        "pageURL": "abeautybd",
+        "phoneNumber": "01782242007",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Juno's BD",
+        "pageURL": "junosbd",
+        "phoneNumber": "01957336034",
+        "authenticity": "M",
+        "web": "Y"
     }
 ]
