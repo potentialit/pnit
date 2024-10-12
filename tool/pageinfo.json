@@ -537,5 +537,19 @@
         "phoneNumber": "",
         "authenticity": "M",
         "web": "O"
+    },
+     {
+        "pageName": "House Of Brands",
+        "pageURL": "houseofbrandsbd",
+        "phoneNumber": "01717082323",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "The Brand Store",
+        "pageURL": "tbs.bangladesh",
+        "phoneNumber": "01966851817",
+        "authenticity": "N",
+        "web": "O"
     }
 ]
