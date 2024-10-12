@@ -586,5 +586,47 @@
         "phoneNumber": "01957336034",
         "authenticity": "M",
         "web": "Y"
+    },
+    {
+        "pageName": "Hm3 Essentials",
+        "pageURL": "foodsbyhm3",
+        "phoneNumber": "",
+        "authenticity": "M",
+        "web": "O"
+    },
+    {
+        "pageName": "Divine Beauty Care",
+        "pageURL": "medivinebeautycare",
+        "phoneNumber": "01307167958",
+        "authenticity": "A",
+        "web": "O"
+    },
+    {
+        "pageName": "UK Beauty Triumph",
+        "pageURL": "Beautytriumph.uk",
+        "phoneNumber": "01940375919",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "UK Shopping by Surovi",
+        "pageURL": "ukshoppingbysurovi",
+        "phoneNumber": "01745102276",
+        "authenticity": "A",
+        "web": "O"
+    },
+    {
+        "pageName": "BD Amajan Shop",
+        "pageURL": "bdamajanshop",
+        "phoneNumber": "01759129297",
+        "authenticity": "A",
+        "web": "Y"
+    },
+    {
+        "pageName": "Indiabazaarbd",
+        "pageURL": "indiabazaarbd24",
+        "phoneNumber": "01613502797",
+        "authenticity": "N",
+        "web": "O"
     }
 ]
