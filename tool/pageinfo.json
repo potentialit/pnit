@@ -523,5 +523,12 @@
         "phoneNumber": "01922420045",
         "authenticity": "A",
         "web": "Y"
+    },
+     {
+        "pageName": "BD Online Korean Cosmetic SHOP",
+        "pageURL": "bdonlineKoreanCosmeticshop",
+        "phoneNumber": "01612222030",
+        "authenticity": "N",
+        "web": "Y"
     }
 ]
