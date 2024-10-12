@@ -635,5 +635,12 @@
         "phoneNumber": "01712427711",
         "authenticity": "A",
         "web": "Y"
+    },
+    {
+        "pageName": "Exotic Collections BD",
+        "pageURL": "ecollections2017",
+        "phoneNumber": "01790603771",
+        "authenticity": "M",
+        "web": "O"
     }
 ]
