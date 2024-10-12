@@ -642,5 +642,12 @@
         "phoneNumber": "01790603771",
         "authenticity": "M",
         "web": "O"
+    },
+    {
+        "pageName": "Kirei",
+        "pageURL": "jbeautybyKirei",
+        "phoneNumber": "09666791110",
+        "authenticity": "A",
+        "web": "Y"
     }
 ]
