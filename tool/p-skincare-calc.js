@@ -124,7 +124,7 @@
     // --- COPY LOGIC ---
     copyBtn.addEventListener('click', () => {
         if (currentRetailPrice > 0) {
-            const textToCopy = `এই প্রোডাক্টের অফার প্রাইস ${currentRetailPrice} টাকা\nঅথেনটিক প্রোডাক্টের স্টক সব সময় সীমিত থাকে তাই কোরিয়া থেকে মাসে একবার অর্ডার নিয়ে থাকি। দেরি না করে দ্রুত অর্ডার করতে পারেন।`;
+            const textToCopy = `এই প্রোডাক্টের অফার প্রাইস ${currentRetailPrice} টাকা 🔥\nঅথেনটিক প্রোডাক্টের স্টক সব সময় সীমিত থাকে তাই কোরিয়া থেকে মাসে একবার অর্ডার নিয়ে থাকি। দেরি না করে দ্রুত অর্ডার করতে পারেন।`;
             
             navigator.clipboard.writeText(textToCopy).then(() => {
                 // Visual feedback
